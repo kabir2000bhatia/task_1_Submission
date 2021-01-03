@@ -1,2 +1,2 @@
-# task_1_Submission
-This is task-1 for the internship GRIP@SPARKS FOUNDATION
+# tasks_Submission
+These are for the Data science & Analytics internship GRIP@SPARKS FOUNDATION
